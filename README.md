@@ -1,6 +1,8 @@
 # alcool_ou_gasolina
 
-A new Flutter project.
+Aplicativo que calcula através do preço de combustivel informado pelo usuário e a partir disso é definido o que tem mais vantagem.
+# Feito no curso de Flutter do Jamilton Damasceno
+Versão do Flutter: 2.10.4
 
 ## Getting Started
 
